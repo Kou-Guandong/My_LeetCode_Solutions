@@ -1,4 +1,4 @@
-Life is hard. Try to solve problems on LeetCode, you may realize that life itself is not that hard.
+Life coule be hard occasionally. Try to solve hard problems on LeetCode, then we may realize that life is not that hard in comparison.
 
 ## Basic Info
 
